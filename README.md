@@ -18,3 +18,6 @@
 To jest link do mojego githuba: [link](https://github.com/TensePanic)
 
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+**to jest tekst dodany jako zmiana do 3go commitu**
+*pozdrawiam*
