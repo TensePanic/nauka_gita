@@ -16,3 +16,5 @@
 >Nie wierz we wszystko co przeczytasz w internecie
 
 To jest link do mojego githuba: [link](https://github.com/TensePanic)
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
